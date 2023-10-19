@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\bin\Debug\netcoreapp3.1\Rascunhos.exe
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\bin\Debug\netcoreapp3.1\Rascunhos.deps.json
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\bin\Debug\netcoreapp3.1\Rascunhos.runtimeconfig.json
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\bin\Debug\netcoreapp3.1\Rascunhos.runtimeconfig.dev.json
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\bin\Debug\netcoreapp3.1\Rascunhos.dll
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\bin\Debug\netcoreapp3.1\Rascunhos.pdb
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.AssemblyInfo.cs
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.dll
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.pdb
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.genruntimeconfig.cache
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Rascunhos\Rascunhos\obj\Debug\netcoreapp3.1\Rascunhos.GeneratedMSBuildEditorConfig.editorconfig
